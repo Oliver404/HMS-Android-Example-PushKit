@@ -10,7 +10,10 @@
 3. [Configuring Android Project](#configuring-android-project)
     1. [Configuring Signature and Package name](#configuring-signature-and-package-name)
     2. [Set up AppGallery connection](#set-up-appgallery-connection)
-    2. [Configure API KEY](#configure-api-key)
+    3. [Set up "get token"](#set-up-get-token)
+       1. [Option 1: Enable automatic initialization by Manifest File](#option-1-enable-automatic-initialization-by-manifest-file)
+       2. [Option 2: Enable automatic initialization by code](#option-2-enable-automatic-initialization-by-code)
+       3. [Option 2: Calling `getToken()` method](#option-3-calling-gettoken-method)
 4. [Run the Application](#run-the-application)
 
 ## Prerequisites
@@ -65,3 +68,24 @@ V) Now locate the `defaultConfig` section, it is above `signingConfigs`
 VI) Replace the value of `applicationId` for your `packagename` with which the app is registered to AppGallery
 
 ![Configuring Signature and Packagename](/readme/assets/chage_signature_and_packagename.png?raw=true "Configuring Signature and Packagename")
+
+### Set up AppGallery connection
+I) The file `agconnect-services.json` that was downloaded in [previous section](#download-configuration-json-file), should be pasted into the folder `app`, as shown in the image below.
+
+![Paste agconnect-services.json](/readme/assets/paste_json.png?raw=true "Paste agconnect-services.json")
+
+### Set up "get token"
+There are three ways to set up `get token`
+
+#### Option 1: Enable automatic initialization by Manifest File
+#### Option 2: Enable automatic initialization by code
+#### Option 3: Calling `getToken()` method
+
+## Run the Application
+I) Once all the configuration is done, you can execute the project, obtaining something similar to the following image:
+
+![Result](/readme/assets/push_result.png?raw=true "Result")
+
+II) And the `token` printed in the `Logcat`
+
+![Token in Logcat](/readme/assets/get_token.png?raw=true "Token in Logcat")

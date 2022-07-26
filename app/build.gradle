@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "<<YOUR_PACKAGENAME>"
+        applicationId "com.oliverbotello.eha.pushkit"
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -18,10 +18,10 @@ android {
 
     signingConfigs {
         config {
-            keyAlias '<<ALIAS>>'
-            keyPassword '<<PASSWORD_ALIAS>>'
-            storeFile file('<<PATH_KEY>>')
-            storePassword '<<PASSWORD_KEY>>'
+            keyAlias 'test'
+            keyPassword 'oliver404'
+            storeFile file('../test.jks')
+            storePassword 'oliver404'
         }
     }
 
