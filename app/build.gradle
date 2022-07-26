@@ -18,10 +18,10 @@ android {
 
     signingConfigs {
         config {
-            keyAlias 'test'
-            keyPassword 'oliver404'
-            storeFile file('../test.jks')
-            storePassword 'oliver404'
+            keyAlias '<<ALIAS>>'
+            keyPassword '<<PASSWORD_ALIAS>>'
+            storeFile file('<<PATH_KEY>>')
+            storePassword '<<PASSWORD_KEY>>'
         }
     }
 
