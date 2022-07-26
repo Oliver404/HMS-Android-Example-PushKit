@@ -5,10 +5,10 @@
 1. [Prerequisites](#prerequisites)
 2. [Configuring AppGallery Connect](#configuring-appgallery-connect)
     1. [Turn on the Push Kit API](#turn-on-the-push-kit-api)
-    2. [Create Key for Static Map](#create-key-for-static-map)
+    2. [Enable Push Kit Module](#enable-push-kit-module)
     3. [Download configuration json file](#download-configuration-json-file)
 3. [Configuring Android Project](#configuring-android-project)
-    1. [Configuring Signature](#configuring-signature)
+    1. [Configuring Signature and Package name](#configuring-signature-and-package-name)
     2. [Set up AppGallery connection](#set-up-appgallery-connection)
     2. [Configure API KEY](#configure-api-key)
 4. [Run the Application](#run-the-application)
@@ -51,7 +51,7 @@ II) Download the file `agconnect-services.json`
 ![Download agconnect-services.json](/readme/assets/download_json.png?raw=true "Download agconnect-services.json")
 
 ## Configuring Android Project
-### Configuring Signature and Packagename
+### Configuring Signature and Package name
 I) In the `app` folder you will find the file `build.gradle`
 
 II) Opening it should locate the `signingConfigs` section, as shown in the image below
