@@ -74,10 +74,18 @@ I) The file `agconnect-services.json` that was downloaded in [previous section](
 
 ![Paste agconnect-services.json](/readme/assets/paste_json.png?raw=true "Paste agconnect-services.json")
 
-### Set up "get token"
+### Set up `get token`
 There are three ways to set up `get token`
 
 #### Option 1: Enable automatic initialization by Manifest File
+I) Open the file `AndroidManifest.xml` that is located in following path `app/src/main/`
+
+![AndroidManifest.xml](/readme/assets/comment_meta_data.png?raw=true "AndroidManifest.xml")
+
+II) Uncomment `push_kit_auto_init_enabled` meta-data line
+
+![Uncomment meta-data](/readme/assets/uncomment_meta_data.png?raw=true "Uncomment meta-data")
+
 #### Option 2: Enable automatic initialization by code
 #### Option 3: Calling `getToken()` method
 
