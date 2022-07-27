@@ -105,10 +105,10 @@ II) Uncomment the line `getToken();`
 ![Uncomment getToken();](/readme/assets/uncomment_code_line_activity.png?raw=true "Uncomment getToken();")
 
 ## Run the Application
-I) Once all the configuration is done, you can execute the project, obtaining something similar to the following image:
-
-![Result](/readme/assets/push_result.png?raw=true "Result")
-
-II) And the `token` printed in the `Logcat`
+I) Once all the configuration is done, you can execute the project, obtaining the `token` printed in the `Logcat`
 
 ![Token in Logcat](/readme/assets/get_token.png?raw=true "Token in Logcat")
+
+II) And something similar to the following image:
+
+![Result](/readme/assets/push_result.png?raw=true "Result")
