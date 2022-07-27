@@ -87,6 +87,7 @@ II) Uncomment `push_kit_auto_init_enabled` meta-data line
 ![Uncomment meta-data](/readme/assets/uncomment_meta_data.png?raw=true "Uncomment meta-data")
 
 #### Option 2: Enable automatic initialization by code
+I) 
 #### Option 3: Calling `getToken()` method
 
 ## Run the Application
