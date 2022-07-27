@@ -1,6 +1,7 @@
 
 # HMS Push Kit Example
-
+### 👾 Get in touch
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliv_er404/) [![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oliver_botello) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](http://www.hackerrank.com/Oliver404)
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Configuring AppGallery Connect](#configuring-appgallery-connect)
@@ -112,6 +113,3 @@ I) Once all the configuration is done, you can execute the project, obtaining th
 II) And something similar to the following image:
 
 ![Result](/readme/assets/push_result.png?raw=true "Result")
-
-## 👾 Get in touch
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliv_er404/) [![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oliver_botello) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](http://www.hackerrank.com/Oliver404)
