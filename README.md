@@ -114,11 +114,13 @@ II) And something similar to the following image:
 ![Result](/readme/assets/push_result.png?raw=true "Result")
 
 ## 👾 Get in touch
-<div style="background-color: #1E1E1E;padding:25px;">
-    <div>
+<div style="background-color: #1E1E1E;display: flex;flex-wrap: wrap;gap:25px;padding:25px;">
+    <div style="width: 100px">
         <img src="/readme/assets/oliver404.png?raw=true" width="100px"/>
     </div>
-    <div>
+    <div style="width: auto">
+        <h3 style="color:white;margin:0px;margin-bottom:4px;margin-top:4px;">Oliver Botello</h3>
+        <h5 style="color:white;margin:0px;margin-bottom:8px;">@Oliver404</h5>
         <a href="www.oliverbotello.com">
             <image src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/>
         </a>
