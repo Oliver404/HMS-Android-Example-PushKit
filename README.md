@@ -114,4 +114,19 @@ II) And something similar to the following image:
 ![Result](/readme/assets/push_result.png?raw=true "Result")
 
 ## 👾 Get in touch
-![Oliver Botello](/readme/assets/oliver404.png?raw=true "Oliver Botello")
+<div style="background-color: #1E1E1E;padding:25px;">
+    <div>
+        <img src="/readme/assets/oliver404.png?raw=true" width="100px"/>
+    </div>
+    <div>
+        <a href="www.oliverbotello.com">
+            <image src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/>
+        </a>
+        <a href="www.oliverbotello.com">
+            <image src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/>
+        </a>
+        <a href="www.oliverbotello.com">
+            <image src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'/>
+        </a>
+    </div>
+</div>
