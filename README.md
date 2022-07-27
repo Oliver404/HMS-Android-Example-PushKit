@@ -87,7 +87,14 @@ II) Uncomment `push_kit_auto_init_enabled` meta-data line
 ![Uncomment meta-data](/readme/assets/uncomment_meta_data.png?raw=true "Uncomment meta-data")
 
 #### Option 2: Enable automatic initialization by code
-I) 
+I) Open the file `EHAPushKitApp.java` that is located in following path `app/src/main/java/com.oliverbotello.eha.pushkit/application/`
+
+![EHAPushKitApp.java](/readme/assets/comment_code_line_app.png?raw=true "EHAPushKitApp.java")
+
+II) Uncomment the line `setAutoInitEnabled(true);`
+
+![Uncomment meta-data](/readme/assets/uncomment_code_line_app.png?raw=true "Uncomment meta-data")
+
 #### Option 3: Calling `getToken()` method
 
 ## Run the Application

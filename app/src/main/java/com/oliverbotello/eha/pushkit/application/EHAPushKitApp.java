@@ -8,11 +8,11 @@ public class EHAPushKitApp extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        // setAutoInitEnabled(true);
+        setAutoInitEnabled(true);
     }
 
     /**
-     * @param isEnable
+     *
      */
     private void setAutoInitEnabled(final boolean isEnable) {
         HmsMessaging.getInstance(this).setAutoInitEnabled(isEnable);
