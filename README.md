@@ -114,21 +114,4 @@ II) And something similar to the following image:
 ![Result](/readme/assets/push_result.png?raw=true "Result")
 
 ## 👾 Get in touch
-<div style="background-color: #1E1E1E;display: flex;flex-wrap: wrap;gap:25px;padding:25px;">
-    <div style="width: 100px">
-        <img src="/readme/assets/oliver404.png?raw=true" width="100px"/>
-    </div>
-    <div style="width: auto">
-        <h3 style="color:white;margin:0px;margin-bottom:4px;margin-top:4px;">Oliver Botello</h3>
-        <h5 style="color:white;margin:0px;margin-bottom:8px;">@Oliver404</h5>
-        <a href="www.oliverbotello.com">
-            <image src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/>
-        </a>
-        <a href="www.oliverbotello.com">
-            <image src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/>
-        </a>
-        <a href="www.oliverbotello.com">
-            <image src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white'/>
-        </a>
-    </div>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliv_er404/) [![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oliver_botello) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](http://www.hackerrank.com/Oliver404)
