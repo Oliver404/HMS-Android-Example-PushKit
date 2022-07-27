@@ -93,9 +93,16 @@ I) Open the file `EHAPushKitApp.java` that is located in following path `app/src
 
 II) Uncomment the line `setAutoInitEnabled(true);`
 
-![Uncomment meta-data](/readme/assets/uncomment_code_line_app.png?raw=true "Uncomment meta-data")
+![Uncomment setAutoInitEnabled(true);](/readme/assets/uncomment_code_line_app.png?raw=true "Uncomment setAutoInitEnabled(true);")
 
 #### Option 3: Calling `getToken()` method
+I) Open the file `MainActivity.java` that is located in following path `app/src/main/java/com.oliverbotello.eha.pushkit/`
+
+![MainActivity.java](/readme/assets/comment_code_line_activity.png?raw=true "MainActivity.java")
+
+II) Uncomment the line `getToken();`
+
+![Uncomment getToken();](/readme/assets/uncomment_code_line_activity.png?raw=true "Uncomment getToken();")
 
 ## Run the Application
 I) Once all the configuration is done, you can execute the project, obtaining something similar to the following image:

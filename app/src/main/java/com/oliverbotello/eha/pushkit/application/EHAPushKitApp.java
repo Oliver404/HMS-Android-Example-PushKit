@@ -8,7 +8,7 @@ public class EHAPushKitApp extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        setAutoInitEnabled(true);
+//        setAutoInitEnabled(true);
     }
 
     /**
