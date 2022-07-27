@@ -112,3 +112,6 @@ I) Once all the configuration is done, you can execute the project, obtaining th
 II) And something similar to the following image:
 
 ![Result](/readme/assets/push_result.png?raw=true "Result")
+
+## 👾 Get in touch
+![Oliver Botello](/readme/assets/oliver404.png?raw=true "Oliver Botello")
